@@ -361,9 +361,9 @@
     "time": {
       "day": "sat",
       "duration": "2:00",
-      "start": "3:30PM"
+      "start": "3:00PM"
     },
-    "title": "Best Friends Animal Society Water Bottle Infuser Station"
+    "title": "Microsoft Massages"
   },
   {
     "caption": "",
@@ -372,8 +372,9 @@
     "time": {
       "day": "sat",
       "duration": "2:00",
-      "start": "3:00PM"
+      "start": "3:30PM"
     },
-    "title": "Microsoft Massages"
+    "title": "Best Friends Animal Society Water Bottle Infuser Station",
+    "offset": 1
   }
 ]
