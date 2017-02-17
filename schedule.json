@@ -282,7 +282,18 @@
     "location": "TBD",
     "time": {
       "day": "fri",
-      "duration": "0:30",
+      "duration": "0:20",
+      "start": "10:0PM"
+    },
+    "title": "Bots + Cog Services Presented by Microsoft"
+  },
+  {
+    "caption": "",
+    "event_type": "Workshops",
+    "location": "TBD",
+    "time": {
+      "day": "fri",
+      "duration": "0:20",
       "start": "10:30PM"
     },
     "title": "Intro to Microsoft Azure"
@@ -293,10 +304,10 @@
     "location": "TBD",
     "time": {
       "day": "fri",
-      "duration": "0:30",
+      "duration": "0:20",
       "start": "11:00PM"
     },
-    "title": "IBM Tech Talk"
+    "title": "Hack with IBM Watson IoT"
   },
   {
     "caption": "",
@@ -304,7 +315,7 @@
     "location": "TBD",
     "time": {
       "day": "fri",
-      "duration": "0:30",
+      "duration": "0:20",
       "start": "11:30PM"
     },
     "title": "Disney Tech Talk"
@@ -315,7 +326,7 @@
     "location": "TBD",
     "time": {
       "day": "sat",
-      "duration": "0:30",
+      "duration": "0:20",
       "start": "12:00AM"
     },
     "title": "Google Cloud Platform Intro"
@@ -326,10 +337,10 @@
     "location": "TBD",
     "time": {
       "day": "sat",
-      "duration": "0:30",
+      "duration": "0:20",
       "start": "12:30AM"
     },
-    "title": "Illumina Tech Talk"
+    "title": "Once in a Lifetime Work - Illumina"
   },
   {
     "caption": "",
@@ -337,21 +348,10 @@
     "location": "TBD",
     "time": {
       "day": "sat",
-      "duration": "0:30",
+      "duration": "0:20",
       "start": "1:00AM"
     },
-    "title": "Amazon Alexa Tech Talk"
-  },
-  {
-    "caption": "",
-    "event_type": "Workshops",
-    "location": "TBD",
-    "time": {
-      "day": "sat",
-      "duration": "0:30",
-      "start": "1:30AM"
-    },
-    "title": "Zillow Tech Talk"
+    "title": "Amazon Alexa and the Alexa Skills Kit"
   },
   {
     "caption": "",
