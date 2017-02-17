@@ -180,7 +180,7 @@
     "title": "Shower Facilities"
   },
   {
-    "caption": "Meet at the Ampitheater!",
+    "caption": "Meet at the Amphitheater!",
     "event_type": "events",
     "location": "Across Campus",
     "time": {
@@ -191,9 +191,9 @@
     "title": "Humans v. Zombies"
   },
   {
-    "caption": "Meet at the Ampitheater!",
+    "caption": "Meet at the Amphitheater!",
     "event_type": "events",
-    "location": "Ampitheater",
+    "location": "Amphitheater",
     "time": {
       "day": "sun",
       "duration": "1:00",
@@ -303,7 +303,7 @@
   {
     "caption": "",
     "event_type": "Workshops",
-    "location": "TBD",
+    "location": "Huang 305",
     "time": {
       "day": "fri",
       "duration": "0:30",
@@ -314,7 +314,7 @@
   {
     "caption": "",
     "event_type": "Workshops",
-    "location": "TBD",
+    "location": "Huang 305",
     "time": {
       "day": "fri",
       "duration": "0:30",
@@ -325,7 +325,7 @@
   {
     "caption": "",
     "event_type": "Workshops",
-    "location": "TBD",
+    "location": "Huang 305",
     "time": {
       "day": "fri",
       "duration": "0:30",
@@ -336,7 +336,7 @@
   {
     "caption": "",
     "event_type": "Workshops",
-    "location": "TBD",
+    "location": "Huang 305",
     "time": {
       "day": "fri",
       "duration": "0:30",
@@ -347,7 +347,7 @@
   {
     "caption": "",
     "event_type": "Workshops",
-    "location": "TBD",
+    "location": "Huang 305",
     "time": {
       "day": "sat",
       "duration": "0:30",
@@ -358,7 +358,7 @@
   {
     "caption": "",
     "event_type": "Workshops",
-    "location": "TBD",
+    "location": "Huang 305",
     "time": {
       "day": "sat",
       "duration": "0:30",
@@ -369,7 +369,7 @@
   {
     "caption": "",
     "event_type": "Workshops",
-    "location": "TBD",
+    "location": "Huang 305",
     "time": {
       "day": "sat",
       "duration": "0:30",
