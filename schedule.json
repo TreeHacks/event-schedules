@@ -42,7 +42,8 @@
       "duration": "2:00",
       "start": "8:00PM"
     },
-    "title": "Opening Ceremony"
+    "title": "Opening Ceremony",
+    "offset": 1
   },
   {
     "caption": "",
