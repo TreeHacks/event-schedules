@@ -147,7 +147,7 @@
   },
   {
     "caption": "Meet at the Ampitheater!",
-    "event_type": "Main timeline",
+    "event_type": "events",
     "location": "Cantor Art Museum",
     "time": {
       "day": "sat",
