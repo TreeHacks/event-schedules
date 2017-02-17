@@ -1,5 +1,28 @@
 [
   {
+    "caption": "",
+    "event_type": "events",
+    "location": "TBD",
+    "time": {
+      "day": "sat",
+      "duration": "2:00",
+      "start": "3:00PM"
+    },
+    "title": "Microsoft Massages"
+  },
+  {
+    "caption": "",
+    "event_type": "events",
+    "location": "TBD",
+    "time": {
+      "day": "sat",
+      "duration": "2:00",
+      "start": "3:30PM"
+    },
+    "title": "Best Friends Animal Society Water Bottle Infuser Station",
+    "offset": 1
+  },
+  {
     "caption": "Hackers check in to TreeHacks!",
     "event_type": "Main timeline",
     "location": "Huang Basement",
@@ -353,28 +376,5 @@
       "start": "1:00AM"
     },
     "title": "Amazon Alexa + Alexa Skills Kit"
-  },
-  {
-    "caption": "",
-    "event_type": "events",
-    "location": "TBD",
-    "time": {
-      "day": "sat",
-      "duration": "2:00",
-      "start": "3:00PM"
-    },
-    "title": "Microsoft Massages"
-  },
-  {
-    "caption": "",
-    "event_type": "events",
-    "location": "TBD",
-    "time": {
-      "day": "sat",
-      "duration": "2:00",
-      "start": "3:30PM"
-    },
-    "title": "Best Friends Animal Society Water Bottle Infuser Station",
-    "offset": 1
   }
 ]
