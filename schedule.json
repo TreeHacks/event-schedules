@@ -282,7 +282,7 @@
     "location": "TBD",
     "time": {
       "day": "fri",
-      "duration": "0:20",
+      "duration": "0:30",
       "start": "10:0PM"
     },
     "title": "Bots + Cog Services Presented by Microsoft"
@@ -293,7 +293,7 @@
     "location": "TBD",
     "time": {
       "day": "fri",
-      "duration": "0:20",
+      "duration": "0:30",
       "start": "10:30PM"
     },
     "title": "Intro to Microsoft Azure"
@@ -304,7 +304,7 @@
     "location": "TBD",
     "time": {
       "day": "fri",
-      "duration": "0:20",
+      "duration": "0:30",
       "start": "11:00PM"
     },
     "title": "Hack with IBM Watson IoT"
@@ -315,7 +315,7 @@
     "location": "TBD",
     "time": {
       "day": "fri",
-      "duration": "0:20",
+      "duration": "0:30",
       "start": "11:30PM"
     },
     "title": "Disney Tech Talk"
@@ -326,7 +326,7 @@
     "location": "TBD",
     "time": {
       "day": "sat",
-      "duration": "0:20",
+      "duration": "0:30",
       "start": "12:00AM"
     },
     "title": "Google Cloud Platform Intro"
@@ -337,7 +337,7 @@
     "location": "TBD",
     "time": {
       "day": "sat",
-      "duration": "0:20",
+      "duration": "0:30",
       "start": "12:30AM"
     },
     "title": "Once in a Lifetime Work - Illumina"
@@ -348,7 +348,7 @@
     "location": "TBD",
     "time": {
       "day": "sat",
-      "duration": "0:20",
+      "duration": "0:30",
       "start": "1:00AM"
     },
     "title": "Amazon Alexa and the Alexa Skills Kit"
