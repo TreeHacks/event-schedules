@@ -69,17 +69,6 @@
     "offset": 1
   },
   {
-    "caption": "",
-    "event_type": "events",
-    "location": "Huang 2nd Floor",
-    "time": {
-      "day": "sat",
-      "duration": "1:00",
-      "start": "2:00AM"
-    },
-    "title": "Gaming Tournament"
-  },
-  {
     "caption": "Meet at the Ampitheater!",
     "event_type": "events",
     "location": "The Dish",
