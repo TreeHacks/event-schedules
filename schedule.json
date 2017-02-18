@@ -96,8 +96,8 @@
     "location": "Huang 1st Floor - Outside",
     "time": {
       "day": "sat",
-      "duration": "1:00",
-      "start": "9:30AM"
+      "duration": "2:00",
+      "start": "8:30AM"
     },
     "title": "Breakfast"
   },
@@ -391,7 +391,7 @@
   },
   {
     "caption": "Pick up your checks!",
-    "event_type": "events",
+    "event_type": "Main timeline",
     "location": "Registration tables",
     "time": {
       "day": "sat",
