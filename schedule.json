@@ -365,5 +365,17 @@
       "start": "1:00AM"
     },
     "title": "Amazon Alexa + Alexa Skills Kit"
+  },
+  {
+    "caption": "",
+    "event_type": "Workshops",
+    "location": "Huang 18",
+    "time": {
+      "day": "fri",
+      "duration": "0:30",
+      "start": "7:00PM"
+    },
+    "title": "Mentor Briefing",
+    "offset": 1
   }
 ]
