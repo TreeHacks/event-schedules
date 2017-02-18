@@ -69,17 +69,6 @@
     "offset": 1
   },
   {
-    "caption": "Meet at the Ampitheater!",
-    "event_type": "events",
-    "location": "The Dish",
-    "time": {
-      "day": "sat",
-      "duration": "2:00",
-      "start": "6:30AM"
-    },
-    "title": "Sunrise Dish Hike"
-  },
-  {
     "caption": "",
     "event_type": "events",
     "location": "AOERC",
