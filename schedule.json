@@ -369,7 +369,7 @@
   {
     "caption": "",
     "event_type": "Workshops",
-    "location": "Huang 18",
+    "location": "Huang 018",
     "time": {
       "day": "fri",
       "duration": "0:45",
@@ -377,5 +377,16 @@
     },
     "title": "Mentor Briefing",
     "offset": 1
+  },
+  {
+    "caption": "",
+    "event_type": "events",
+    "location": "Huang 018",
+    "time": {
+      "day": "fri",
+      "duration": "1:00",
+      "start": "10:00PM"
+    },
+    "title": "Team Building"
   }
 ]
