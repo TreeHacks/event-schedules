@@ -388,5 +388,16 @@
       "start": "10:00PM"
     },
     "title": "Team Building"
+  },
+  {
+    "caption": "Pick up your checks!",
+    "event_type": "events",
+    "location": "Registration tables",
+    "time": {
+      "day": "sat",
+      "duration": "2:00",
+      "start": "1:00PM"
+    },
+    "title": "Travel Reimbursements"
   }
 ]
