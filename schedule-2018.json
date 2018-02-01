@@ -19,11 +19,12 @@
 			"duration": "1:00"
 		},
 		"location": "1st Floor - Outside",
-		"event_type": "Main timeline"
+		"event_type": "Main timeline",
+		"offset": 1
 	},
 	{
 		"title": "Team Building",
-		"caption": "Come meet other hackers and build a team!",
+		"caption": "Meet hackers and build a team!",
 		"time": {
 			"day": "fri",
 			"start": "7:00PM",
@@ -173,7 +174,8 @@
 			"duration": "1:00"
 		},
 		"location": "Basement outside NVIDIA",
-		"event_type": "events"
+		"event_type": "events",
+		"offset": 1
 	},
 	{
 		"title": "Midnight Snack",
