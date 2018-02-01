@@ -1,0 +1,255 @@
+[
+	{
+		"title": "Hacker Registration",
+		"caption": "Hackers check in to TreeHacks!",
+		"time": {
+			"day": "fri",
+			"start": "4:00PM",
+			"duration": "4:00"
+		},
+		"location": "Huang Basement",
+		"event_type": "main"
+	},
+	{
+		"title": "Dinner",
+		"caption": "Taiko - 6:00, Band 6:30",
+		"time": {
+			"day": "fri",
+			"start": "6:00PM",
+			"duration": "1:00"
+		},
+		"location": "Huang 1st Floor - Outside",
+		"event_type": "main"
+	},
+	{
+		"title": "Team Building",
+		"caption": "Come meet other hackers and build a team!",
+		"time": {
+			"day": "fri",
+			"start": "7:00PM",
+			"duration": "1:00"
+		},
+		"location": "Huang 3rd Floor",
+		"event_type": "event"
+	},
+	{
+		"title": "Opening Ceremony",
+		"caption": "Kickoff the event! ",
+		"time": {
+			"day": "fri",
+			"start": "8:00PM",
+			"duration": "1:00"
+		},
+		"location": "Hewlett 200",
+		"event_type": "main"
+	},
+	{
+		"title": "Hacking Begins! ",
+		"caption": "",
+		"time": {
+			"day": "fri",
+			"start": "10:00PM",
+			"duration": "0:15"
+		},
+		"location": "",
+		"event_type": "main"
+	},
+	{
+		"title": "Krispy Kreme Midnight Snack",
+		"caption": "",
+		"time": {
+			"day": "Fri",
+			"start": "11:59PM",
+			"duration": "0:30"
+		},
+		"location": "",
+		"event_type": ""
+	},
+	{
+		"title": "Shower Facilities",
+		"caption": "",
+		"time": {
+			"day": "sat",
+			"start": "8:00AM",
+			"duration": "3:00"
+		},
+		"location": "AOERC",
+		"event_type": "event"
+	},
+	{
+		"title": "Sunrise Dish Hike",
+		"caption": "need someone to lead",
+		"time": {
+			"day": "sat",
+			"start": "6:00 AM ",
+			"duration": "1:30"
+		},
+		"location": "decide meeting spot",
+		"event_type": "event"
+	},
+	{
+		"title": "Breakfast",
+		"caption": "",
+		"time": {
+			"day": "sat",
+			"start": "9:30AM",
+			"duration": "1:00"
+		},
+		"location": "Huang 1st Floor - Outside",
+		"event_type": "main"
+	},
+	{
+		"title": "Health Speaker",
+		"caption": "Come listen to Google Brain researcher's talk on AI + medicine!",
+		"time": {
+			"day": "sat",
+			"start": "11:00AM",
+			"duration": "0:30"
+		},
+		"location": "???",
+		"event_type": "event"
+	},
+	{
+		"title": "Lunch",
+		"caption": "Talisman→ Noelle, 925-628-7071.",
+		"time": {
+			"day": "sat",
+			"start": "12:00PM",
+			"duration": "1:00"
+		},
+		"location": "Huang 1st Floor - Outside",
+		"event_type": "main"
+	},
+	{
+		"title": "CTF for security vertical",
+		"caption": "",
+		"time": {
+			"day": "sat",
+			"start": "5:00PM",
+			"duration": "1:00"
+		},
+		"location": "3rd floor of Huang (need to decide room)",
+		"event_type": "event"
+	},
+	{
+		"title": "Contributing to Open Source Workshop",
+		"caption": "",
+		"time": {
+			"day": "sat",
+			"start": "5:00 pm",
+			"duration": "1:00"
+		},
+		"location": "",
+		"event_type": "workshop"
+	},
+	{
+		"title": "Afternoon Boba Snack",
+		"caption": "",
+		"time": {
+			"day": "Sat",
+			"start": "1/26/1900",
+			"duration": "0:30"
+		},
+		"location": "",
+		"event_type": ""
+	},
+	{
+		"title": "Dinner",
+		"caption": "Calypso performance ",
+		"time": {
+			"day": "sat",
+			"start": "6:30PM",
+			"duration": "1:00"
+		},
+		"location": "Huang 1st Floor - Outside",
+		"event_type": "main"
+	},
+	{
+		"title": "Shower Facilities",
+		"caption": "",
+		"time": {
+			"day": "sat",
+			"start": "7:00PM",
+			"duration": "3:00"
+		},
+		"location": "AOERC",
+		"event_type": "event"
+	},
+	{
+		"title": "MLH Cup Stacking",
+		"caption": "",
+		"time": {
+			"day": "sat",
+			"start": "9:00PM",
+			"duration": "1:00"
+		},
+		"location": "Basement outside Nvidia",
+		"event_type": "event"
+	},
+	{
+		"title": "Midnight Snack",
+		"caption": "",
+		"time": {
+			"day": "sat",
+			"start": "11:59PM",
+			"duration": "0:30"
+		},
+		"location": "",
+		"event_type": ""
+	},
+	{
+		"title": "Hacking Ends",
+		"caption": "",
+		"time": {
+			"day": "sun",
+			"start": "10:00AM",
+			"duration": "0:15"
+		},
+		"location": "",
+		"event_type": "main"
+	},
+	{
+		"title": "Brunch",
+		"caption": "",
+		"time": {
+			"day": "sun",
+			"start": "10:30AM",
+			"duration": "1:00"
+		},
+		"location": "Huang 1st Floor - Outside",
+		"event_type": "main"
+	},
+	{
+		"title": "Project Expo",
+		"caption": "",
+		"time": {
+			"day": "sun",
+			"start": "12:00PM",
+			"duration": "2:00"
+		},
+		"location": "Huang Basement",
+		"event_type": "main"
+	},
+	{
+		"title": "Closing Ceremony",
+		"caption": "",
+		"time": {
+			"day": "sun",
+			"start": "2:00PM",
+			"duration": "1:30"
+		},
+		"location": "Hewlett 200",
+		"event_type": "main"
+	},
+	{
+		"title": "Buses Depart",
+		"caption": "",
+		"time": {
+			"day": "sun",
+			"start": "4:30PM",
+			"duration": "0:15"
+		},
+		"location": "Drop Off Points",
+		"event_type": "main"
+	}
+]
