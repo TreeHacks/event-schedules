@@ -18,7 +18,7 @@
 			"start": "6:00PM",
 			"duration": "1:00"
 		},
-		"location": "Huang 1st Floor - Outside",
+		"location": "1st Floor - Outside",
 		"event_type": "Main timeline"
 	},
 	{
@@ -29,7 +29,7 @@
 			"start": "7:00PM",
 			"duration": "1:00"
 		},
-		"location": "Huang 3rd Floor",
+		"location": "3rd Floor",
 		"event_type": "events"
 	},
 	{
@@ -84,7 +84,7 @@
 			"start": "9:30AM",
 			"duration": "1:00"
 		},
-		"location": "Huang 1st Floor - Outside",
+		"location": "1st Floor - Outside",
 		"event_type": "Main timeline"
 	},
 	{
@@ -106,7 +106,7 @@
 			"start": "12:00PM",
 			"duration": "1:00"
 		},
-		"location": "Huang 1st Floor - Outside",
+		"location": "1st Floor - Outside",
 		"event_type": "Main timeline"
 	},
 	{
@@ -150,7 +150,7 @@
 			"start": "6:30PM",
 			"duration": "1:00"
 		},
-		"location": "Huang 1st Floor - Outside",
+		"location": "1st Floor - Outside",
 		"event_type": "Main timeline"
 	},
 	{
@@ -172,7 +172,7 @@
 			"start": "9:00PM",
 			"duration": "1:00"
 		},
-		"location": "Basement outside Nvidia",
+		"location": "Basement outside NVIDIA",
 		"event_type": "events"
 	},
 	{
@@ -194,7 +194,7 @@
 			"start": "10:30AM",
 			"duration": "1:00"
 		},
-		"location": "Huang 1st Floor - Outside",
+		"location": "1st Floor - Outside",
 		"event_type": "Main timeline"
 	},
 	{
