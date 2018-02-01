@@ -49,7 +49,7 @@
 		"time": {
 			"day": "fri",
 			"start": "10:00PM",
-			"duration": "0:15"
+			"duration": "0:30"
 		},
 		"location": "",
 		"event_type": "Main timeline"
@@ -203,7 +203,7 @@
 		"time": {
 			"day": "sun",
 			"start": "10:00AM",
-			"duration": "0:15"
+			"duration": "0:30"
 		},
 		"location": "",
 		"event_type": "Main timeline"
@@ -247,7 +247,7 @@
 		"time": {
 			"day": "sun",
 			"start": "4:30PM",
-			"duration": "0:15"
+			"duration": "0:45"
 		},
 		"location": "Drop Off Points",
 		"event_type": "Main timeline"
