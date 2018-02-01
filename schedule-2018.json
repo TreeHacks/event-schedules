@@ -8,7 +8,7 @@
 			"duration": "4:00"
 		},
 		"location": "Huang Basement",
-		"event_type": "main"
+		"event_type": "Main timeline"
 	},
 	{
 		"title": "Dinner",
@@ -19,7 +19,7 @@
 			"duration": "1:00"
 		},
 		"location": "Huang 1st Floor - Outside",
-		"event_type": "main"
+		"event_type": "Main timeline"
 	},
 	{
 		"title": "Team Building",
@@ -30,7 +30,7 @@
 			"duration": "1:00"
 		},
 		"location": "Huang 3rd Floor",
-		"event_type": "event"
+		"event_type": "events"
 	},
 	{
 		"title": "Opening Ceremony",
@@ -41,7 +41,7 @@
 			"duration": "1:00"
 		},
 		"location": "Hewlett 200",
-		"event_type": "main"
+		"event_type": "Main timeline"
 	},
 	{
 		"title": "Hacking Begins! ",
@@ -52,7 +52,7 @@
 			"duration": "0:15"
 		},
 		"location": "",
-		"event_type": "main"
+		"event_type": "Main timeline"
 	},
 	{
 		"title": "Krispy Kreme Midnight Snack",
@@ -63,7 +63,7 @@
 			"duration": "0:30"
 		},
 		"location": "",
-		"event_type": ""
+		"event_type": "events"
 	},
 	{
 		"title": "Shower Facilities",
@@ -74,7 +74,7 @@
 			"duration": "3:00"
 		},
 		"location": "AOERC",
-		"event_type": "event"
+		"event_type": "events"
 	},
 	{
 		"title": "Sunrise Dish Hike",
@@ -85,7 +85,7 @@
 			"duration": "1:30"
 		},
 		"location": "decide meeting spot",
-		"event_type": "event"
+		"event_type": "events"
 	},
 	{
 		"title": "Breakfast",
@@ -96,7 +96,7 @@
 			"duration": "1:00"
 		},
 		"location": "Huang 1st Floor - Outside",
-		"event_type": "main"
+		"event_type": "Main timeline"
 	},
 	{
 		"title": "Health Speaker",
@@ -107,7 +107,7 @@
 			"duration": "0:30"
 		},
 		"location": "???",
-		"event_type": "event"
+		"event_type": "events"
 	},
 	{
 		"title": "Lunch",
@@ -118,7 +118,7 @@
 			"duration": "1:00"
 		},
 		"location": "Huang 1st Floor - Outside",
-		"event_type": "main"
+		"event_type": "Main timeline"
 	},
 	{
 		"title": "CTF for security vertical",
@@ -129,7 +129,7 @@
 			"duration": "1:00"
 		},
 		"location": "3rd floor of Huang (need to decide room)",
-		"event_type": "event"
+		"event_type": "events"
 	},
 	{
 		"title": "Contributing to Open Source Workshop",
@@ -140,7 +140,7 @@
 			"duration": "1:00"
 		},
 		"location": "",
-		"event_type": "workshop"
+		"event_type": "Workshops"
 	},
 	{
 		"title": "Afternoon Boba Snack",
@@ -151,7 +151,7 @@
 			"duration": "0:30"
 		},
 		"location": "",
-		"event_type": ""
+		"event_type": "events"
 	},
 	{
 		"title": "Dinner",
@@ -162,7 +162,7 @@
 			"duration": "1:00"
 		},
 		"location": "Huang 1st Floor - Outside",
-		"event_type": "main"
+		"event_type": "Main timeline"
 	},
 	{
 		"title": "Shower Facilities",
@@ -173,7 +173,7 @@
 			"duration": "3:00"
 		},
 		"location": "AOERC",
-		"event_type": "event"
+		"event_type": "events"
 	},
 	{
 		"title": "MLH Cup Stacking",
@@ -184,7 +184,7 @@
 			"duration": "1:00"
 		},
 		"location": "Basement outside Nvidia",
-		"event_type": "event"
+		"event_type": "events"
 	},
 	{
 		"title": "Midnight Snack",
@@ -195,7 +195,7 @@
 			"duration": "0:30"
 		},
 		"location": "",
-		"event_type": ""
+		"event_type": "events"
 	},
 	{
 		"title": "Hacking Ends",
@@ -206,7 +206,7 @@
 			"duration": "0:15"
 		},
 		"location": "",
-		"event_type": "main"
+		"event_type": "Main timeline"
 	},
 	{
 		"title": "Brunch",
@@ -217,7 +217,7 @@
 			"duration": "1:00"
 		},
 		"location": "Huang 1st Floor - Outside",
-		"event_type": "main"
+		"event_type": "Main timeline"
 	},
 	{
 		"title": "Project Expo",
@@ -228,7 +228,7 @@
 			"duration": "2:00"
 		},
 		"location": "Huang Basement",
-		"event_type": "main"
+		"event_type": "Main timeline"
 	},
 	{
 		"title": "Closing Ceremony",
@@ -239,7 +239,7 @@
 			"duration": "1:30"
 		},
 		"location": "Hewlett 200",
-		"event_type": "main"
+		"event_type": "Main timeline"
 	},
 	{
 		"title": "Buses Depart",
@@ -250,6 +250,6 @@
 			"duration": "0:15"
 		},
 		"location": "Drop Off Points",
-		"event_type": "main"
+		"event_type": "Main timeline"
 	}
 ]
