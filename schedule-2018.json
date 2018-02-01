@@ -44,17 +44,6 @@
 		"event_type": "Main timeline"
 	},
 	{
-		"title": "Hacking Begins! ",
-		"caption": "",
-		"time": {
-			"day": "fri",
-			"start": "10:00PM",
-			"duration": "0:30"
-		},
-		"location": "",
-		"event_type": "Main timeline"
-	},
-	{
 		"title": "Krispy Kreme Midnight Snack",
 		"caption": "",
 		"time": {
@@ -196,17 +185,6 @@
 		},
 		"location": "",
 		"event_type": "events"
-	},
-	{
-		"title": "Hacking Ends",
-		"caption": "",
-		"time": {
-			"day": "sun",
-			"start": "10:00AM",
-			"duration": "0:30"
-		},
-		"location": "",
-		"event_type": "Main timeline"
 	},
 	{
 		"title": "Brunch",
