@@ -102,11 +102,11 @@
 	
 	{
 		"title": "Lunch with Laura",
-		"caption": "Join us in a conversation with our keynote speaker Laura Butler, Vice President of OneNoteand Star Treknical Goddess!",
+		"caption": "Join us in a conversation with our keynote speaker Laura Butler, Vice President of OneNote and Star Treknical Goddess!",
 		"time": {
 			"day": "sat",
 			"start": "12:00PM",
-			"duration": "1:00"
+			"duration": "1:30"
 		},
 		"location": "TBD",
 		"event_type": "events"
