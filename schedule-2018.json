@@ -12,7 +12,7 @@
 	},
 	{
 		"title": "Dinner",
-		"caption": "Taiko - 6:00, Band 6:30",
+		"caption": "Taiko Performance - 6:00, Band Performance - 6:30",
 		"time": {
 			"day": "fri",
 			"start": "6:00PM",
@@ -68,13 +68,13 @@
 	},
 	{
 		"title": "Sunrise Dish Hike",
-		"caption": "need someone to lead",
+		"caption": "",
 		"time": {
 			"day": "sat",
 			"start": "6:00AM ",
 			"duration": "1:30"
 		},
-		"location": "decide meeting spot",
+		"location": "",
 		"event_type": "events"
 	},
 	{
@@ -90,7 +90,7 @@
 	},
 	{
 		"title": "Health Speaker",
-		"caption": "Come listen to Google Brain researcher's talk on AI + medicine!",
+		"caption": "Come listen to Google Brain researcher Christof Angermueller talk about AI + medicine!",
 		"time": {
 			"day": "sat",
 			"start": "11:00AM",
@@ -101,7 +101,7 @@
 	},
 	{
 		"title": "Lunch",
-		"caption": "Talisman→ Noelle, 925-628-7071.",
+		"caption": "Talisman Performance",
 		"time": {
 			"day": "sat",
 			"start": "12:00PM",
@@ -118,7 +118,7 @@
 			"start": "5:00PM",
 			"duration": "1:00"
 		},
-		"location": "3rd floor of Huang (need to decide room)",
+		"location": "3rd floor of Huang",
 		"event_type": "events"
 	},
 	{
