@@ -106,7 +106,7 @@
 		"time": {
 			"day": "sat",
 			"start": "12:00PM",
-			"duration": "1:00"
+			"duration": "1:15"
 		},
 		"location": "TBD",
 		"event_type": "events"
@@ -128,7 +128,7 @@
 		"time": {
 			"day": "sat",
 			"start": "5:00PM",
-			"duration": "1:00"
+			"duration": "4:00"
 		},
 		"location": "3rd floor of Huang",
 		"event_type": "events"
