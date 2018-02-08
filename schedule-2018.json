@@ -279,17 +279,6 @@
 		"offset": 1
 	},
 	{
-		"title": "Spikeball Tournament",
-		"caption": "Spike balls",
-		"time": {
-			"day": "sat",
-			"start": "2:00PM",
-			"duration": "1:00"
-		},
-		"location": "Cantor Arts Center",
-		"event_type": "events"
-	},
-	{
 		"title": "Painting",
 		"caption": "",
 		"time": {
@@ -368,5 +357,16 @@
 		"location": "1st Floor - Outside",
 		"event_type": "Main timeline",
 		"offset": 1
+	},
+		{
+		"title": "Spikeball Tournament",
+		"caption": "Spike balls",
+		"time": {
+			"day": "sat",
+			"start": "2:00PM",
+			"duration": "1:00"
+		},
+		"location": "Cantor Arts Center",
+		"event_type": "events"
 	}
 ]
