@@ -67,17 +67,6 @@
 		"event_type": "events"
 	},
 	{
-		"title": "Sunrise Dish Hike",
-		"caption": "",
-		"time": {
-			"day": "sat",
-			"start": "6:00AM ",
-			"duration": "1:30"
-		},
-		"location": "",
-		"event_type": "events"
-	},
-	{
 		"title": "Breakfast",
 		"caption": "",
 		"time": {
