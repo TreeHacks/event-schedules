@@ -23,6 +23,18 @@
 		"offset": 1
 	},
 	{
+		"title": "Start Up Fair",
+		"caption": "Come check out a bunch of new Start Ups!",
+		"time": {
+			"day": "sat",
+			"start": "4:00PM",
+			"duration": "2:00"
+		},
+		"location": "1st Floor - Outside",
+		"event_type": "Main timeline",
+		"offset": 1
+	},
+	{
 		"title": "Team Building",
 		"caption": "Meet hackers and build a team!",
 		"time": {
