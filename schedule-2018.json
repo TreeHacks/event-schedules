@@ -276,7 +276,8 @@
 			"duration": "2:00"
 		},
 		"location": "Cantor Arts Center",
-		"event_type": "events"
+		"event_type": "events",
+		"offset": 1
 	},
 	{
 		"title": "LIGHT SABER FIGHT",
@@ -342,7 +343,8 @@
 			"duration": "1:30"
 		},
 		"location": "outside",
-		"event_type": "events"
+		"event_type": "events",
+		"offset": 1
 	},
 	{
 		"title": "Yoga",
@@ -364,6 +366,7 @@
 			"duration": "2:00"
 		},
 		"location": "",
-		"event_type": "events"
+		"event_type": "events",
+		"offset": 1
 	}
 ]
