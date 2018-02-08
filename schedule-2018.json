@@ -49,7 +49,7 @@
 		"caption": "",
 		"time": {
 			"day": "Fri",
-			"start": "11:59PM",
+			"start": "12:00AM",
 			"duration": "0:30"
 		},
 		"location": "",
@@ -328,7 +328,7 @@
 		"caption": "",
 		"time": {
 			"day": "sat",
-			"start": "6:20AM",
+			"start": "6:15AM",
 			"duration": "2:00"
 		},
 		"location": "",
