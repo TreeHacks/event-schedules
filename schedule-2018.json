@@ -352,7 +352,8 @@
 			"duration": "1:30"
 		},
 		"location": "outside",
-		"event_type": "events"
+		"event_type": "events",
+		"offset": 1
 	},
 	{
 		"title": "Laser Tag!!",
@@ -421,6 +422,6 @@
 			"duration": "0:30"
 		},
 		"location": "TBD",
-		"event_type": "Main timeline"
+		"event_type": "Workshops"
 	}
 ]
