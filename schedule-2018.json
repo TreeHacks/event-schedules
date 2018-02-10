@@ -89,17 +89,6 @@
 		"event_type": "events"
 	},
 	{
-		"title": "Illumina Deep Learning Health Talk",
-		"caption": "Come listen to Illumina's deep learning engineers!",
-		"time": {
-			"day": "sat",
-			"start": "2:30PM",
-			"duration": "0:30"
-		},
-		"location": "TBD",
-		"event_type": "Main timeline"
-	},
-	{
 		"title": "Lunch with Laura",
 		"caption": "Join us in a conversation with our keynote speaker Laura Butler, Vice President of OneNote!",
 		"time": {
@@ -422,5 +411,16 @@
 		},
 		"location": "Cantor Arts Center",
 		"event_type": "events"
+	},
+	{
+		"title": "Illumina Deep Learning Health Talk",
+		"caption": "Come listen to Illumina's deep learning engineers!",
+		"time": {
+			"day": "sat",
+			"start": "2:30PM",
+			"duration": "0:30"
+		},
+		"location": "TBD",
+		"event_type": "Main timeline"
 	}
 ]
