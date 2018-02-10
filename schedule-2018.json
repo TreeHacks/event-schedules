@@ -329,8 +329,7 @@
 			"duration": "2:00"
 		},
 		"location": "Cantor Arts Center",
-		"event_type": "events",
-		"offset": 1
+		"event_type": "events"
 	},
 	{
 		"title": "Painting",
@@ -341,7 +340,8 @@
 			"duration": "1:00"
 		},
 		"location": "Outside",
-		"event_type": "events"
+		"event_type": "events",
+		"offset": 1
 	},
 	{
 		"title": "Gingerbread cookie decoration",
