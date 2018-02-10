@@ -352,8 +352,7 @@
 			"duration": "1:30"
 		},
 		"location": "outside",
-		"event_type": "events",
-		"offset": 1
+		"event_type": "events"
 	},
 	{
 		"title": "Laser Tag!!",
@@ -412,7 +411,7 @@
 		},
 		"location": "Cantor Arts Center",
 		"event_type": "events",
-		"offset": 2
+		"offset": 1
 	},
 	{
 		"title": "Illumina Deep Learning Health Talk",
