@@ -133,6 +133,28 @@
 		"event_type": "Main timeline"
 	},
 	{
+		"title": "CTF (Capture the Flag) Introduction Workshop",
+		"caption": "Come learn about what a CTF is and get some practice before the competition!",
+		"time": {
+			"day": "sat",
+			"start": "12:30PM",
+			"duration": "0:30"
+		},
+		"location": "3rd floor of Huang",
+		"event_type": "Workshops"
+	},
+	{
+		"title": "CTF Debrief",
+		"caption": "Discuss the CTF problems and ask questions!",
+		"time": {
+			"day": "sat",
+			"start": "5:00PM",
+			"duration": "0:30"
+		},
+		"location": "3rd floor of Huang",
+		"event_type": "Workshops"
+	},
+	{
 		"title": "Contributing to Open Source Workshop",
 		"caption": "",
 		"time": {
