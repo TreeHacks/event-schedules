@@ -422,8 +422,7 @@
 			"duration": "0:30"
 		},
 		"location": "TBD",
-		"event_type": "Main timeline",
-		"offset": 1
+		"event_type": "Workshops"
 	},
 	{
 		"title": "StdLib Workshop",
