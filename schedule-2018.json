@@ -236,8 +236,8 @@
 		"title": "Midnight Snack",
 		"caption": "",
 		"time": {
-			"day": "Sat",
-			"start": "11:59PM",
+			"day": "sun",
+			"start": "12:00AM",
 			"duration": "0:30"
 		},
 		"location": "TBD",
