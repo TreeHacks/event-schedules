@@ -111,6 +111,17 @@
 		"event_type": "Main timeline"
 	},
 	{
+		"title": "Students for a Sustainable Stanford Workshop",
+		"caption": "Come learn about sustainability and tech!",
+		"time": {
+			"day": "sat",
+			"start": "11:30AM",
+			"duration": "0:30"
+		},
+		"location": "TBD",
+		"event_type": "Workshops"
+	},
+	{
 		"title": "CTF (Capture the Flag) Competition",
 		"caption": "Puzzle-style cybersecurity competition (beginner friendly!)",
 		"time": {
