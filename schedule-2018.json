@@ -144,17 +144,6 @@
 		"event_type": "Workshops"
 	},
 	{
-		"title": "CTF Debrief",
-		"caption": "Discuss the CTF problems and ask questions!",
-		"time": {
-			"day": "sat",
-			"start": "5:00PM",
-			"duration": "0:30"
-		},
-		"location": "3rd floor of Huang",
-		"event_type": "Workshops"
-	},
-	{
 		"title": "Contributing to Open Source Workshop",
 		"caption": "",
 		"time": {
@@ -163,6 +152,17 @@
 			"duration": "1:00"
 		},
 		"location": "TBD",
+		"event_type": "Workshops"
+	},
+	{
+		"title": "CTF Debrief",
+		"caption": "Discuss the CTF problems and ask questions!",
+		"time": {
+			"day": "sat",
+			"start": "5:00PM",
+			"duration": "0:30"
+		},
+		"location": "3rd floor of Huang",
 		"event_type": "Workshops"
 	},
 	{
