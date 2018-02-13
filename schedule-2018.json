@@ -611,5 +611,29 @@
 		"location": "TBD",
 		"event_type": "events",
 		"offset": 1
+	},
+	{
+		"title": "Stem Inc. Energy Talk",
+		"caption": "",
+		"time": {
+			"day": "fri",
+			"start": "10:30PM",
+			"duration": "0:30"
+		},
+		"location": "TBD",
+		"event_type": "events",
+		"offset": 1
+	},
+	{
+		"title": "Carbon Lighthouse Speaker",
+		"caption": "",
+		"time": {
+			"day": "sat",
+			"start": "3:30PM",
+			"duration": "0:30"
+		},
+		"location": "TBD",
+		"event_type": "events",
+		"offset": 1
 	}
 ]
