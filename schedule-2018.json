@@ -551,7 +551,7 @@
 		"time": {
 			"day": "sat",
 			"start": "1:30PM",
-			"duration": "0:20"
+			"duration": "0:30"
 		},
 		"location": "TBD",
 		"event_type": "Workshops"
@@ -573,7 +573,7 @@
 		"time": {
 			"day": "sat",
 			"start": "2:00PM",
-			"duration": "0:20"
+			"duration": "0:30"
 		},
 		"location": "TBD",
 		"event_type": "Workshops"
@@ -584,18 +584,7 @@
 		"time": {
 			"day": "sat",
 			"start": "3:00PM",
-			"duration": "0:20"
-		},
-		"location": "TBD",
-		"event_type": "Workshops"
-	},
-	{
-		"title": "Impending Revolution: Live Video and AR",
-		"caption": "",
-		"time": {
-			"day": "sat",
-			"start": "3:00PM",
-			"duration": "0:20"
+			"duration": "0:30"
 		},
 		"location": "TBD",
 		"event_type": "Workshops"
