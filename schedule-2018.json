@@ -379,7 +379,7 @@
 		"offset": 1
 	},
 	{
-		"title": "Sunrise hike",
+		"title": "Sunrise Hike",
 		"caption": "",
 		"time": {
 			"day": "sat",
@@ -540,7 +540,7 @@
 		"time": {
 			"day": "sat",
 			"start": "11:00AM",
-			"duration": "0:20"
+			"duration": "0:30"
 		},
 		"location": "TBD",
 		"event_type": "Workshops"
