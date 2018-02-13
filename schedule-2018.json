@@ -423,5 +423,170 @@
 		},
 		"location": "TBD",
 		"event_type": "Main timeline"
+	},
+	{
+		"title": "StdLib Workshop",
+		"caption": "",
+		"time": {
+			"day": "fri",
+			"start": "10:00PM",
+			"duration": "0:50"
+		},
+		"location": "TBD",
+		"event_type": "Workshops"
+	},
+	{
+		"title": "Hacking the Microsoft Hack Workshop",
+		"caption": "",
+		"time": {
+			"day": "fri",
+			"start": "10:50PM",
+			"duration": "0:20"
+		},
+		"location": "TBD",
+		"event_type": "Workshops"
+	},
+	{
+		"title": "AI is Lit Workshop",
+		"caption": "",
+		"time": {
+			"day": "fri",
+			"start": "11:10PM",
+			"duration": "0:20"
+		},
+		"location": "TBD",
+		"event_type": "Workshops"
+	},
+	{
+		"title": "IoT Intelligence using Watson through IBM Cloud",
+		"caption": "",
+		"time": {
+			"day": "fri",
+			"start": "11:30PM",
+			"duration": "0:20"
+		},
+		"location": "TBD",
+		"event_type": "Workshops"
+	},
+	{
+		"title": "Google Cloud Workshop",
+		"caption": "",
+		"time": {
+			"day": "sat",
+			"start": "12:00AM",
+			"duration": "0:20"
+		},
+		"location": "TBD",
+		"event_type": "Workshops"
+	},
+	{
+		"title": "How to Make a Meme Generator in 20 Minutes",
+		"caption": "",
+		"time": {
+			"day": "sat",
+			"start": "12:20AM",
+			"duration": "0:20"
+		},
+		"location": "TBD",
+		"event_type": "Workshops"
+	},
+	{
+		"title": "Illumina Workshop",
+		"caption": "",
+		"time": {
+			"day": "sat",
+			"start": "12:40AM",
+			"duration": "0:20"
+		},
+		"location": "TBD",
+		"event_type": "Workshops"
+	},
+	{
+		"title": "Trail of Bits Workshop",
+		"caption": "",
+		"time": {
+			"day": "sat",
+			"start": "1:00AM",
+			"duration": "0:20"
+		},
+		"location": "TBD",
+		"event_type": "Workshops"
+	},
+	{
+		"title": "Navisens Workshop",
+		"caption": "",
+		"time": {
+			"day": "sat",
+			"start": "1:20AM",
+			"duration": "0:20"
+		},
+		"location": "TBD",
+		"event_type": "Workshops"
+	},
+	{
+		"title": "Navisens Workshop",
+		"caption": "",
+		"time": {
+			"day": "sat",
+			"start": "1:20AM",
+			"duration": "0:20"
+		},
+		"location": "TBD",
+		"event_type": "Workshops"
+	},
+	{
+		"title": "Introduction to MongoDB",
+		"caption": "",
+		"time": {
+			"day": "sat",
+			"start": "11:00AM",
+			"duration": "0:20"
+		},
+		"location": "TBD",
+		"event_type": "Workshops"
+	},
+	{
+		"title": "DRW Workshop",
+		"caption": "",
+		"time": {
+			"day": "sat",
+			"start": "1:30PM",
+			"duration": "0:20"
+		},
+		"location": "TBD",
+		"event_type": "Workshops"
+	},
+	{
+		"title": "Kubernetes Workshop",
+		"caption": "",
+		"time": {
+			"day": "sat",
+			"start": "2:00PM",
+			"duration": "0:20"
+		},
+		"location": "TBD",
+		"event_type": "Workshops"
+	},
+	{
+		"title": "Kubernetes Workshop",
+		"caption": "",
+		"time": {
+			"day": "sat",
+			"start": "2:00PM",
+			"duration": "0:20"
+		},
+		"location": "TBD",
+		"event_type": "Workshops"
+	},
+	{
+		"title": "Impending Revolution: Live Video and AR",
+		"caption": "",
+		"time": {
+			"day": "sat",
+			"start": "3:00PM",
+			"duration": "0:20"
+		},
+		"location": "TBD",
+		"event_type": "Workshops"
 	}
 ]
