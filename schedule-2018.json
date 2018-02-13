@@ -144,17 +144,6 @@
 		"event_type": "Workshops"
 	},
 	{
-		"title": "Arduino Workshop",
-		"caption": "",
-		"time": {
-			"day": "sat",
-			"start": "4:30PM",
-			"duration": "0:30"
-		},
-		"location": "TBD",
-		"event_type": "Workshops"
-	},
-	{
 		"title": "Machine Learning Workshop",
 		"caption": "",
 		"time": {
