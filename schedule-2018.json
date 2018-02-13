@@ -334,7 +334,7 @@
 	},
 	{
 		"title": "Gingerbread cookie decoration",
-		"caption": "it's in the name",
+		"caption": "It's in the name",
 		"time": {
 			"day": "sat",
 			"start": "7:30PM",
@@ -588,5 +588,27 @@
 		},
 		"location": "TBD",
 		"event_type": "Workshops"
+	},
+	{
+		"title": "Impending Revolution: Live Video and AR",
+		"caption": "",
+		"time": {
+			"day": "sat",
+			"start": "3:00PM",
+			"duration": "0:20"
+		},
+		"location": "TBD",
+		"event_type": "Workshops"
+	},
+	{
+		"title": "Stargazing",
+		"caption": "",
+		"time": {
+			"day": "sat",
+			"start": "1:00AM",
+			"duration": "1:00"
+		},
+		"location": "TBD",
+		"event_type": "events"
 	}
 ]
