@@ -590,17 +590,6 @@
 		"event_type": "Workshops"
 	},
 	{
-		"title": "Kubernetes Workshop",
-		"caption": "",
-		"time": {
-			"day": "sat",
-			"start": "2:00PM",
-			"duration": "0:30"
-		},
-		"location": "TBD",
-		"event_type": "Workshops"
-	},
-	{
 		"title": "Revolution: Live Video and AR",
 		"caption": "",
 		"time": {
