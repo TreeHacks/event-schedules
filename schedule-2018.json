@@ -111,6 +111,17 @@
 		"event_type": "Main timeline"
 	},
 	{
+		"title": "Diversity & Inclusion Meetup",
+		"caption": "Come talk about diversity and inclusion!",
+		"time": {
+			"day": "sat",
+			"start": "12:00AM",
+			"duration": "1:00"
+		},
+		"location": "018",
+		"event_type": "Event"
+	},
+	{
 		"title": "Students for a Sustainable Stanford Workshop",
 		"caption": "Come learn about sustainability and tech!",
 		"time": {
