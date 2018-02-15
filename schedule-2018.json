@@ -23,14 +23,14 @@
 		"offset": 1
 	},
 	{
-		"title": "Team Building",
-		"caption": "Meet hackers and build a team!",
+		"title": "Team Building and Vertical Pitches",
+		"caption": "Meet hackers and build teams!",
 		"time": {
 			"day": "fri",
 			"start": "9:00PM",
 			"duration": "1:00"
 		},
-		"location": "Mackenzie Room",
+		"location": "Mackenzie Room, 3rd Floor",
 		"event_type": "events"
 	},
 	{
