@@ -189,7 +189,7 @@
 	},
 	{
 		"title": "ARKit Workshop",
-		"caption": "",
+		"caption": "Come plant some AR trees into the world using Swift and ARKit!",
 		"time": {
 			"day": "sat",
 			"start": "10:30AM",
