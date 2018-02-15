@@ -85,7 +85,7 @@
 			"start": "11:00AM",
 			"duration": "0:30"
 		},
-		"location": "TBD",
+		"location": "018",
 		"event_type": "events"
 	},
 	{
@@ -173,7 +173,7 @@
 			"start": "4:00PM",
 			"duration": "0:30"
 		},
-		"location": "306",
+		"location": "018",
 		"event_type": "Workshops"
 	},
 	{
@@ -184,7 +184,7 @@
 			"start": "3:30PM",
 			"duration": "0:30"
 		},
-		"location": "305",
+		"location": "018",
 		"event_type": "Workshops"
 	},
 	{
@@ -195,7 +195,7 @@
 			"start": "10:30AM",
 			"duration": "0:30"
 		},
-		"location": "306",
+		"location": "018",
 		"event_type": "Workshops"
 	},
 	{
@@ -206,7 +206,7 @@
 			"start": "10:00AM",
 			"duration": "0:30"
 		},
-		"location": "305",
+		"location": "018",
 		"event_type": "Workshops"
 	},
 	{
