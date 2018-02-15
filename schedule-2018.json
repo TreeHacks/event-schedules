@@ -250,7 +250,7 @@
 			"start": "9:00PM",
 			"duration": "1:00"
 		},
-		"location": "Basement outside NVIDIA",
+		"location": "NVIDIA Basement",
 		"event_type": "events",
 		"offset": 1
 	},
@@ -311,7 +311,7 @@
 	},
 	{
 		"title": "SpeedFriending",
-		"caption": "Make new friends from across the country!",
+		"caption": "Make new friends!",
 		"time": {
 			"day": "sat",
 			"start": "10:00PM",
@@ -602,7 +602,7 @@
 	},
 	{
 		"title": "Karaoke",
-		"caption": "Come to our judgment-free karaoke session!",
+		"caption": "Judgment-free karaoke session!",
 		"time": {
 			"day": "sat",
 			"start": "10:30PM",
