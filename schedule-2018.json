@@ -300,11 +300,11 @@
 	},
 	{
 		"title": "Buses Depart",
-		"caption": "Buses may depart later depending on when opening ceremony finishes",
+		"caption": "Buses may depart later depending on when closing ceremony finishes",
 		"time": {
 			"day": "sun",
 			"start": "4:00PM",
-			"duration": "0:45"
+			"duration": "0:50"
 		},
 		"location": "Drop Off Points",
 		"event_type": "Main timeline"
