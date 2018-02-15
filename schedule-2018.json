@@ -624,27 +624,15 @@
 		"offset": 1
 	},
 	{
-		"title": "Stem Inc. Energy Talk",
-		"caption": "",
+		"title": "Hacking the clean energy transition with Stem, Inc.",
+		"caption": "Come learn about storage and its role in the future of both tech and energy!",
 		"time": {
 			"day": "fri",
 			"start": "10:30PM",
 			"duration": "0:30"
 		},
-		"location": "TBD",
+		"location": "018",
 		"event_type": "events",
 		"offset": 1
 	},
-	{
-		"title": "Carbon Lighthouse Speaker",
-		"caption": "",
-		"time": {
-			"day": "sat",
-			"start": "3:30PM",
-			"duration": "0:30"
-		},
-		"location": "TBD",
-		"event_type": "events",
-		"offset": 1
-	}
 ]
