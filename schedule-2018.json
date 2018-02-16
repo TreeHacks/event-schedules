@@ -199,17 +199,6 @@
 		"event_type": "Workshops"
 	},
 	{
-		"title": "Chrome Extension Workshop",
-		"caption": "",
-		"time": {
-			"day": "sat",
-			"start": "10:00AM",
-			"duration": "0:30"
-		},
-		"location": "018",
-		"event_type": "Workshops"
-	},
-	{
 		"title": "Afternoon Boba Snack",
 		"caption": "",
 		"time": {
