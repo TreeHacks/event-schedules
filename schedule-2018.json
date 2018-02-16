@@ -363,15 +363,14 @@
 			"duration": "1:30"
 		},
 		"location": "Outside",
-		"event_type": "events",
-		"offset": 1
+		"event_type": "events"
 	},
 		{
 		"title": "Cookie Decoration",
 		"caption": "It's in the name",
 		"time": {
 			"day": "sat",
-			"start": "7:45PM",
+			"start": "8:00PM",
 			"duration": "1:00"
 		},
 		"location": "TBD",
