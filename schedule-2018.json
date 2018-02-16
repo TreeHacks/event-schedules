@@ -167,7 +167,7 @@
 	},
 	{
 		"title": "Building Web API Workshop",
-		"caption": "",
+		"caption": "Let's build a Node/Express-powered RESTful API that interfaces with The Dog API.",
 		"time": {
 			"day": "sat",
 			"start": "4:00PM",
