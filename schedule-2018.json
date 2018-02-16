@@ -344,17 +344,6 @@
 		"offset": 1
 	},
 	{
-		"title": "Cookie Decoration",
-		"caption": "It's in the name",
-		"time": {
-			"day": "sat",
-			"start": "7:45PM",
-			"duration": "1:00"
-		},
-		"location": "TBD",
-		"event_type": "events"
-	},
-	{
 		"title": "Stanford Tour!",
 		"caption": "See Stanford campus with official tour guides!",
 		"time": {
@@ -376,6 +365,17 @@
 		"location": "Outside",
 		"event_type": "events",
 		"offset": 1
+	},
+		{
+		"title": "Cookie Decoration",
+		"caption": "It's in the name",
+		"time": {
+			"day": "sat",
+			"start": "7:45PM",
+			"duration": "1:00"
+		},
+		"location": "TBD",
+		"event_type": "events"
 	},
 	{
 		"title": "Yoga (sponsored by Microsoft)",
