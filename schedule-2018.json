@@ -331,18 +331,7 @@
 		"location": "Cantor Arts Center",
 		"event_type": "events"
 	},
-	{
-		"title": "Painting",
-		"caption": "",
-		"time": {
-			"day": "sat",
-			"start": "4:00PM",
-			"duration": "1:00"
-		},
-		"location": "Outside",
-		"event_type": "events",
-		"offset": 1
-	},
+	
 	{
 		"title": "Stanford Tour!",
 		"caption": "See Stanford campus with official tour guides!",
