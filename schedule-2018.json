@@ -374,7 +374,8 @@
 			"duration": "1:00"
 		},
 		"location": "TBD",
-		"event_type": "events"
+		"event_type": "events",
+		"offset" : 1
 	},
 	{
 		"title": "Yoga (sponsored by Microsoft)",
