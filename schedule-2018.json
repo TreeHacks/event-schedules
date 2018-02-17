@@ -401,8 +401,8 @@
 		"event_type": "events"
 	},
 		{
-		"title": "Start Up Fair",
-		"caption": "Come check out a bunch of new start ups!",
+		"title": "Startup Career Fair",
+		"caption": "Check out cool startups that are recruiting for intern and full-time roles!",
 		"time": {
 			"day": "sat",
 			"start": "4:00PM",
@@ -430,7 +430,7 @@
 		"time": {
 			"day": "sat",
 			"start": "2:30PM",
-			"duration": "0:30"
+			"duration": "0:20"
 		},
 		"location": "Room 018",
 		"event_type": "events"
@@ -518,7 +518,7 @@
 		"time": {
 			"day": "sat",
 			"start": "11:00AM",
-			"duration": "0:30"
+			"duration": "0:20"
 		},
 		"location": "Room 305",
 		"event_type": "Workshops"
@@ -529,7 +529,7 @@
 		"time": {
 			"day": "sat",
 			"start": "1:30PM",
-			"duration": "0:30"
+			"duration": "0:20"
 		},
 		"location": "Room 305",
 		"event_type": "Workshops"
@@ -551,7 +551,7 @@
 		"time": {
 			"day": "sat",
 			"start": "3:00PM",
-			"duration": "0:30"
+			"duration": "0:20"
 		},
 		"location": "Room 305",
 		"event_type": "Workshops"
