@@ -432,7 +432,7 @@
 			"start": "10:00PM",
 			"duration": "0:50"
 		},
-		"location": "Room 305",
+		"location": "Room 018",
 		"event_type": "Workshops"
 	},
 	{
@@ -443,7 +443,7 @@
 			"start": "10:50PM",
 			"duration": "0:20"
 		},
-		"location": "Room 306",
+		"location": "Room 018",
 		"event_type": "Workshops"
 	},
 	{
@@ -454,7 +454,7 @@
 			"start": "11:10PM",
 			"duration": "0:20"
 		},
-		"location": "Room 305",
+		"location": "Room 018",
 		"event_type": "Workshops"
 	},
 	{
@@ -465,7 +465,7 @@
 			"start": "11:30PM",
 			"duration": "0:20"
 		},
-		"location": "Room 306",
+		"location": "Room 018",
 		"event_type": "Workshops"
 	},
 	{
@@ -587,7 +587,7 @@
 			"start": "10:30PM",
 			"duration": "0:30"
 		},
-		"location": "Room 018",
+		"location": "Room 305",
 		"event_type": "events",
 		"offset": 1
 	},
