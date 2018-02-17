@@ -602,5 +602,17 @@
 		"location": "Room 018",
 		"event_type": "events",
 		"offset": 1
+	},
+	{
+		"title": "Hacking with Birksun: A Social network for Solar Backpacks",
+		"caption": "Learn about how you can jump into the Birksun challenge and win a solar backpack!",
+		"time": {
+			"day": "sat",
+			"start": "4:30PM",
+			"duration": "0:30"
+		},
+		"location": "Room 305",
+		"event_tyupe": "events",
+		"offset": 1
 	}
 ]
