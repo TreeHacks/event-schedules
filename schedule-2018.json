@@ -85,7 +85,7 @@
 			"start": "11:00AM",
 			"duration": "0:30"
 		},
-		"location": "018",
+		"location": "Room 018",
 		"event_type": "events"
 	},
 	{
@@ -118,7 +118,7 @@
 			"start": "11:30AM",
 			"duration": "0:30"
 		},
-		"location": "306",
+		"location": "Room 306",
 		"event_type": "Workshops"
 	},
 	{
@@ -140,7 +140,7 @@
 			"start": "12:30PM",
 			"duration": "0:30"
 		},
-		"location": "305",
+		"location": "Room 305",
 		"event_type": "Workshops"
 	},
 	{
@@ -151,7 +151,7 @@
 			"start": "5:00PM",
 			"duration": "1:00"
 		},
-		"location": "305",
+		"location": "Room 305",
 		"event_type": "Workshops"
 	},
 	{
@@ -173,7 +173,7 @@
 			"start": "4:00PM",
 			"duration": "0:30"
 		},
-		"location": "018",
+		"location": "Room 018",
 		"event_type": "Workshops"
 	},
 	{
@@ -184,7 +184,7 @@
 			"start": "1:40AM",
 			"duration": "0:30"
 		},
-		"location": "018",
+		"location": "Room 018",
 		"event_type": "Workshops"
 	},
 	{
@@ -195,7 +195,7 @@
 			"start": "10:30AM",
 			"duration": "0:30"
 		},
-		"location": "018",
+		"location": "Room 018",
 		"event_type": "Workshops"
 	},
 	{
@@ -306,7 +306,7 @@
 			"start": "10:00PM",
 			"duration": "1:00"
 		},
-		"location": "018",
+		"location": "Room 018",
 		"event_type": "events"
 	},
 	{
@@ -421,7 +421,7 @@
 			"start": "2:30PM",
 			"duration": "0:30"
 		},
-		"location": "018",
+		"location": "Room 018",
 		"event_type": "events"
 	},
 	{
@@ -432,7 +432,7 @@
 			"start": "10:00PM",
 			"duration": "0:50"
 		},
-		"location": "305",
+		"location": "Room 305",
 		"event_type": "Workshops"
 	},
 	{
@@ -443,7 +443,7 @@
 			"start": "10:50PM",
 			"duration": "0:20"
 		},
-		"location": "306",
+		"location": "Room 306",
 		"event_type": "Workshops"
 	},
 	{
@@ -454,7 +454,7 @@
 			"start": "11:10PM",
 			"duration": "0:20"
 		},
-		"location": "305",
+		"location": "Room 305",
 		"event_type": "Workshops"
 	},
 	{
@@ -465,7 +465,7 @@
 			"start": "11:30PM",
 			"duration": "0:20"
 		},
-		"location": "306",
+		"location": "Room 306",
 		"event_type": "Workshops"
 	},
 	{
@@ -476,7 +476,7 @@
 			"start": "12:00AM",
 			"duration": "0:20"
 		},
-		"location": "305",
+		"location": "Room 305",
 		"event_type": "Workshops"
 	},
 	{
@@ -487,7 +487,7 @@
 			"start": "12:20AM",
 			"duration": "0:20"
 		},
-		"location": "306",
+		"location": "Room 306",
 		"event_type": "Workshops"
 	},
 	{
@@ -498,7 +498,7 @@
 			"start": "12:40AM",
 			"duration": "0:20"
 		},
-		"location": "305",
+		"location": "Room 305",
 		"event_type": "Workshops"
 	},
 	{
@@ -509,7 +509,7 @@
 			"start": "1:00AM",
 			"duration": "0:20"
 		},
-		"location": "306",
+		"location": "Room 306",
 		"event_type": "Workshops"
 	},
 	{
@@ -520,7 +520,7 @@
 			"start": "1:20AM",
 			"duration": "0:20"
 		},
-		"location": "305",
+		"location": "Room 305",
 		"event_type": "Workshops"
 	},
 	{
@@ -531,7 +531,7 @@
 			"start": "11:00AM",
 			"duration": "0:30"
 		},
-		"location": "305",
+		"location": "Room 305",
 		"event_type": "Workshops"
 	},
 	{
@@ -542,7 +542,7 @@
 			"start": "1:30PM",
 			"duration": "0:30"
 		},
-		"location": "306",
+		"location": "Room 306",
 		"event_type": "Workshops"
 	},
 	{
@@ -553,7 +553,7 @@
 			"start": "2:00PM",
 			"duration": "0:20"
 		},
-		"location": "305",
+		"location": "Room 305",
 		"event_type": "Workshops"
 	},
 	{
@@ -564,7 +564,7 @@
 			"start": "3:00PM",
 			"duration": "0:30"
 		},
-		"location": "306",
+		"location": "Room 306",
 		"event_type": "Workshops"
 	},
 	{
@@ -598,7 +598,7 @@
 			"start": "10:30PM",
 			"duration": "0:30"
 		},
-		"location": "018",
+		"location": "Room 018",
 		"event_type": "events",
 		"offset": 1
 	},
@@ -610,7 +610,7 @@
 			"start": "12:00AM",
 			"duration": "0:30"
 		},
-		"location": "018",
+		"location": "Room 018",
 		"event_type": "events",
 		"offset": 1
 	}
