@@ -491,17 +491,6 @@
 		"event_type": "Workshops"
 	},
 	{
-		"title": "Illumina Workshop",
-		"caption": "",
-		"time": {
-			"day": "sat",
-			"start": "12:40AM",
-			"duration": "0:20"
-		},
-		"location": "Room 305",
-		"event_type": "Workshops"
-	},
-	{
 		"title": "Trail of Bits Workshop",
 		"caption": "",
 		"time": {
