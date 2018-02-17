@@ -166,17 +166,6 @@
 		"event_type": "Workshops"
 	},
 	{
-		"title": "CTF Debrief",
-		"caption": "Discuss the CTF problems and ask questions!",
-		"time": {
-			"day": "sat",
-			"start": "5:00PM",
-			"duration": "0:30"
-		},
-		"location": "Mackenzie Room (Huang 3rd floor)",
-		"event_type": "Main timeline"
-	},
-	{
 		"title": "Building Web API Workshop",
 		"caption": "Let's build a Node/Express-powered RESTful API that interfaces with The Dog API. https://github.com/TreeHacks/hackpack-web-api",
 		"time": {
@@ -614,5 +603,16 @@
 		"location": "Room 305",
 		"event_type": "Workshops",
 		"offset": 1
+	},
+	{
+		"title": "CTF Debrief",
+		"caption": "Discuss the CTF problems and ask questions!",
+		"time": {
+			"day": "sat",
+			"start": "5:00PM",
+			"duration": "0:30"
+		},
+		"location": "Mackenzie Room (Huang 3rd floor)",
+		"event_type": "Main timeline"
 	}
 ]
