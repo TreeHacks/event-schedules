@@ -502,17 +502,6 @@
 		"event_type": "Workshops"
 	},
 	{
-		"title": "Trail of Bits Workshop",
-		"caption": "",
-		"time": {
-			"day": "sat",
-			"start": "1:00AM",
-			"duration": "0:20"
-		},
-		"location": "Room 305",
-		"event_type": "Workshops"
-	},
-	{
 		"title": "Navisens Workshop",
 		"caption": "",
 		"time": {
