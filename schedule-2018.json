@@ -612,7 +612,7 @@
 			"duration": "0:30"
 		},
 		"location": "Room 305",
-		"event_tyupe": "events",
+		"event_type": "events",
 		"offset": 1
 	}
 ]
